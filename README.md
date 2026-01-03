@@ -1,3 +1,9 @@
+<center>
+  <img src="https://github.com/user-attachments/assets/c5b165f8-0a0b-4d2a-b6e0-8fccb79af588" width="100" height="250"/>
+</center>
+
+
+
 # Android Media Player
  - 2019/03/11: patched bug ab repeat application
  - 2019/05/14: fixed next song play cycle
