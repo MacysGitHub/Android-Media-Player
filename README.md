@@ -1,5 +1,6 @@
-<img src="https://github.com/user-attachments/assets/facf4fb9-18b4-4ecf-832b-e70be43cf1ca" width="100" height="250"/>
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/facf4fb9-18b4-4ecf-832b-e70be43cf1ca" width="220" height="400"/>
+</p>
 
 
 # Android Media Player
